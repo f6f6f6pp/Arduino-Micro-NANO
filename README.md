@@ -4,6 +4,7 @@
 其他就隨便大家修改來玩囉WWW  
 <img src="https://user-images.githubusercontent.com/53372547/128599375-784aa760-f335-4861-a491-375e21069948.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/53372547/128599392-50f36fc4-0216-412a-a9f2-a03b2d36ef68.jpg" width="300">  
+開發板尺寸為 1.8CM X 2CM
 # 零件表
 -ATMega32U4 X1  
 -0603 22Ω X2 [位置在USB口下方兩個電阻位]  
