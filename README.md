@@ -18,4 +18,4 @@
 燒錄 BootLoader 時，請選擇燒錄 Arduino Micro 的 BootLoader  
 RX 腳位是 D0  
 TX 腳位是 D1  
-RX/TX 腳位使用不影響燒錄，請放心
+RX/TX 腳位使用不影響燒錄，請放心(反正它貌似不能用TTL燒程式來著)
