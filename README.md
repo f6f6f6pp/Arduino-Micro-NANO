@@ -1,8 +1,8 @@
 # Arduino-Micro-NANO 迷你Micro開發板
 方便大家做開發使用，要做商業用途請告知，請不要移除板子上的QR-CODE & 背面的"立新電腦科技"，其他就隨便大家修改來玩囉WWW  
 <div align="center">
-<img src="https://user-images.githubusercontent.com/53372547/128599375-784aa760-f335-4861-a491-375e21069948.jpg" width="400">
-<img src="https://user-images.githubusercontent.com/53372547/128599392-50f36fc4-0216-412a-a9f2-a03b2d36ef68.jpg" width="400">  
+<img src="https://user-images.githubusercontent.com/53372547/130380643-a72c6a33-72a3-4295-aeed-836fbcb793a7.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/53372547/130380654-1b4a3586-e742-4da2-bc54-018e16314aac.jpg" width="400">  
   
 ### 開發板尺寸為 1.8CM X 2CM
 </div>  
